@@ -18,8 +18,8 @@ import timeoutsocket
 # sasa 20.08.04, 11:30 - c:/data1/ ---- d:/data1
 
 
-WINDOWS = 1
-ACTIVE_PYTHON=1
+WINDOWS = 0
+ACTIVE_PYTHON=0
 
 print ("ver 01.16, 02.2002 - 20.08.2004  SC")
 print ("-------------------------------------------------------")
@@ -889,7 +889,7 @@ if __name__== '__main__':
 		print imaliuredjaja("eth0")
 	  	
 	#prodavnica 1 
- 	ite=["50"  ,"10","50","VPN","10.7.1.11","I:\\KASE\TOPS\\11","I:\\KASE\\TOPS\\KUM1","I:\\KASE\\SIF1",0,0,70]
+ 	ite=["50"  ,"10", "50", "VPN", "55.55.55.201","c:\\tops\\11","c:\\tops\\kum1","c:\\tops\\sif",0,0,70]
 	siteparovi.append(ite)
 	
 	#prodavnica 2
