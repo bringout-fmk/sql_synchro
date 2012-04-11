@@ -1,0 +1,7 @@
+napomena:
+
+sql_syn_vpn ip_prodavnice site_prodavnice
+
+npr:
+
+sql_syn_vpn 10.7.1.14 55
