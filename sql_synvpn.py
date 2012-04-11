@@ -888,90 +888,14 @@ if __name__== '__main__':
 	if WINDOWS == 0:
 		print imaliuredjaja("eth0")
 	  	
-	#prodavnica 1 - grbavica soping centar
+	#prodavnica 1 
  	ite=["50"  ,"10","50","VPN","10.7.1.11","I:\\KASE\TOPS\\11","I:\\KASE\\TOPS\\KUM1","I:\\KASE\\SIF1",0,0,70]
 	siteparovi.append(ite)
 	
-	#prodavnica 2 - alipasino polje
+	#prodavnica 2
 	ite=["51"  ,"11","51","VPN","10.7.1.12","I:\\KASE\TOPS\\21","I:\\KASE\\TOPS\\KUM2","I:\\KASE\\SIF2",1,0,70]
 	siteparovi.append(ite)
 	
-	#prodavnica 3 - ovo je gril i on se ne koristi !!!!!
-	ite=["52"  ,"12","52","VPN","10.7.1.999","I:\\KASE\TOPS\\31","I:\\KASE\\TOPS\\KUM3","I:\\KASE\\SIF3",2,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 4 - breza
-	ite=["53"  ,"13","53","VPN","10.7.1.13","I:\\KASE\TOPS\\41","I:\\KASE\\TOPS\\KUM4","I:\\KASE\\SIF4",3,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 5 - i ovo je gril, ne koristi se!!!
-	ite=["54"  ,"14","54","VPN","10.7.1.999","I:\\KASE\TOPS\\51","I:\\KASE\\TOPS\\KUM5","I:\\KASE\\SIF5",4,0,70]
-	siteparovi.append(ite)
-
-    #prodavnica 6 - env.sehovica VPN
-	ite=["55"  ,"15","55","VPN","10.7.1.14","I:\\KASE\TOPS\\61","I:\\KASE\\TOPS\\KUM6","I:\\KASE\\SIF6",5,0,70]
-	siteparovi.append(ite)
-
-    #prodavnica 7 - bolnicka
-	ite=["56"  ,"16","56","VPN","10.7.1.15","I:\\KASE\TOPS\\71","I:\\KASE\\TOPS\\KUM7","I:\\KASE\\SIF7",6,0,70]
-	siteparovi.append(ite)		
-
-	#prodavnica 8 - hamdije cemerlica - safet VPN
-	ite=["57"  ,"17","57","VPN","10.7.1.16","I:\\KASE\TOPS\\81","I:\\KASE\\TOPS\\KUM8","I:\\KASE\\SIF8",7,0,70]
-	siteparovi.append(ite)	
-
-	#prodavnica 9 - grbavicka
-	ite=["58"  ,"18","58","VPN","10.7.1.17","I:\\KASE\TOPS\\91","I:\\KASE\\TOPS\\KUM9","I:\\KASE\\SIF9",8,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 10 - gril koji se ne koristi !!!!
-	ite=["59"  ,"19","59","VPN","10.7.1.999","I:\\KASE\TOPS\\101","I:\\KASE\\TOPS\\KUM10","I:\\KASE\\SIF10",9,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 11 - hrasno - porodice ribar VPN
-	ite=["60"  ,"20","60","VPN","10.7.1.19","I:\\KASE\TOPS\\111","I:\\KASE\\TOPS\\KUM11","I:\\KASE\\SIF11",10,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 12 - dzemala bijedica
-	ite=["61"  ,"21","61","VPN","10.7.1.20","I:\\KASE\TOPS\\121","I:\\KASE\\TOPS\\KUM12","I:\\KASE\\SIF12",11,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 13 - isovica sokak
-	ite=["62"  ,"22","62","VPN","10.7.1.21","I:\\KASE\TOPS\\131","I:\\KASE\\TOPS\\KUM13","I:\\KASE\\SIF13",12,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 14 - konjic
-	ite=["63"  ,"23","63","VPN","10.7.1.18","I:\\KASE\TOPS\\141","I:\\KASE\\TOPS\\KUM14","I:\\KASE\\SIF14",13,0,70]
-	siteparovi.append(ite)
-	
-	#prodavnica 15 - zmaja od bosne
-	ite=["64"  ,"24","64","VPN","10.7.1.22","I:\\KASE\TOPS\\151","I:\\KASE\\TOPS\\KUM15","I:\\KASE\\SIF15",14,0,70]
-	siteparovi.append(ite)
-	
-	#prodavnica 16 - muhameda hadzijahica
-	ite=["65"  ,"25","65","VPN","10.7.1.23","I:\\KASE\TOPS\\161","I:\\KASE\\TOPS\\KUM16","I:\\KASE\\SIF16",15,0,70]
-	siteparovi.append(ite)
-
-	#prodavnica 17 - azize sacirbegovic
-	ite=["66"  ,"26","66","VPN","10.7.1.24","I:\\KASE\TOPS\\181","I:\\KASE\\TOPS\\KUM18","I:\\KASE\\SIF18",16,0,70]
-	siteparovi.append(ite)
-	
-	#prodavnica 18 - fetaha becirbegovica
-	ite=["67"  ,"27","67","VPN","10.7.1.25","I:\\KASE\TOPS\\171","I:\\KASE\\TOPS\\KUM17","I:\\KASE\\SIF17",17,0,70]
-	siteparovi.append(ite)
-
-	#mostar 19 - mostar
-	ite=["68"  ,"28","68","VPN","10.7.1.26","I:\\KASE\TOPS\\191","I:\\KASE\\TOPS\\KUM19","I:\\KASE\\SIF19",18,0,70]
-	siteparovi.append(ite)
-
-	#prijedor 20 - prijedor
-	ite=["69"  ,"29","69","VPN","10.7.1.27","I:\\KASE\TOPS\\201","I:\\KASE\\TOPS\\KUM20","I:\\KASE\\SIF20",19,0,50]
-	siteparovi.append(ite)
-
-    #prodavnica 21 - mostar 2 VPN
-	ite=["70"  ,"30","70","VPN","10.7.1.29","I:\\KASE\TOPS\\211","I:\\KASE\\TOPS\\KUM21","I:\\KASE\\SIF21",20,0,70]
-	siteparovi.append(ite)
-
 	fVPN=0
 	fNeUcitavaj=0
 	fShutdown=0
